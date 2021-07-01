@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-<!--
-**DegimbeLaurent/DegimbeLaurent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-## Skills 
+## Skills
  
 | **Front** | <img height="32" width="32" src="./img/HTML5_logo.svg"/> | <img height="32" width="32" src="./img/CSS3_logo.svg"/> | <img height="32" width="32" src="./img/JavaScript_logo.svg" /> | <img height="32" width="32" src="./img/Typescript_logo_2020.svg"/> | <img height="32" width="32" src="./img/React-icon.svg" /> |
 | :---        |    :----:   |    :----:   |    :----:   |    :----:   |    :----:   |
