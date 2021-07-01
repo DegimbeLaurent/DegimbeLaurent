@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Titulaire d’un diplôme en publication, fort d’une expérience de dix ans dans 
+les programmes adobe, en création graphique et débutant dans 
+le web développement, je souhaite mettre mon savoir-faire au
+service d’une entreprise et acquérir des connaissances.
 
 ## Skills
  
