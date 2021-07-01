@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-Titulaire d’un diplôme en publication, fort d’une expérience de dix ans dans 
-les programmes adobe, en création graphique et débutant dans 
-le web développement, je souhaite mettre mon savoir-faire au
-service d’une entreprise et acquérir des connaissances.
+Holder of a diploma in publication, with ten years of experience in
+Adobe programs, in graphic design and beginners in
+web development, I want to put my know-how to the
+service of a company and acquire knowledge.
 
 ## Skills
  
